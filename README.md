@@ -8,8 +8,7 @@ from selenium.webdriver.common.keys import Keys<br>
 from selenium.webdriver.chrome.options import Options<br>
 import argparse as arg<br><br>
 
-Driver Chrome: https://chromedriver.chromium.org/downloads<br>
-Mozilla: https://github.com/mozilla/geckodriver<br><br>
+Mozilla: https://github.com/mozilla/geckodriver<br>
 
 python -m pip install selenium<br>
 pip install selenium<br>
