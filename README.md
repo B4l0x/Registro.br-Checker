@@ -6,7 +6,7 @@ import time<br>
 import os<br>
 from selenium.webdriver.common.keys import Keys<br>
 from selenium.webdriver.chrome.options import Options<br>
-import argparse as arg<br><br>
+import argparse as arg<br>
 
 Mozilla: https://github.com/mozilla/geckodriver<br>
 
